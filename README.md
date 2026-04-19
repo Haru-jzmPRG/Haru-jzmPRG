@@ -14,7 +14,7 @@
 <!-- Cambia las frases editando cada "lines[]=..." en la URL    -->
 <!-- Puedes añadir más líneas duplicando &lines[]=Tu+frase+aquí     -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=A66576&center=true&vCenter=true&multiline=false&width=600&lines=Desarrolladora+Multiplataforma;De+la+robótica+al+código;Building+things%2C+one+commit+at+a+time;Future+game+dev+%26+mechatronics+engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=A66576&center=true&vCenter=true&multiline=false&width=600&lines=Desarrolladora+Multiplataforma;Keep+Swimming;Tecnica+SMR;Del+Hardware+al+Código)](https://git.io/typing-svg)
 
 </div>
 
@@ -30,7 +30,7 @@
 
 </div>
 
-Hola, soy **Jazmín** (también conocida como **Haru**) 
+Hola, soy **Jazmín**. 
 
 Empecé con robótica y redes, y ahora estoy en pleno salto hacia el desarrollo multiplataforma, los videojuegos y la mecatrónica. Todavía en construcción.
 
@@ -153,6 +153,6 @@ Empecé con robótica y redes, y ahora estoy en pleno salto hacia el desarrollo 
 
 <div align="center">
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,4&height=120&section=footer&text=building+things%2C+one+commit+at+a+time+✨&fontSize=14&fontColor=ffffff&fontAlignY=65)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,4&height=120&section=footer&text=Tecnica+SMR+-+Desarroladora+Multiplataforma&fontSize=14&fontColor=ffffff&fontAlignY=65)
 
 </div>
