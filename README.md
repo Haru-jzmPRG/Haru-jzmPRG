@@ -6,7 +6,7 @@
 
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,4&height=200&section=header&text=Jazmín%20Gutiérrez&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Haru%20·%20Desarrolladora%20Multiplataforma&descSize=16&descAlignY=58&descColor=A69485)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&customColorList=363B59,5D5F8C,A66576&height=200&section=header&text=Jazmín%20Gutiérrez&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Haru%20·%20Desarrolladora%20Multiplataforma&descSize=16&descAlignY=58&descColor=A69485)
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                     EFECTO TYPING SVG                         -->
@@ -153,6 +153,6 @@ Empecé con robótica y redes, y ahora estoy en pleno salto hacia el desarrollo 
 
 <div align="center">
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,4&height=120&section=footer&text=building+things%2C+one+commit+at+a+time+✨&fontSize=14&fontColor=A69485&fontAlignY=65)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&customColorList=363B59,5D5F8C,A66576&height=120&section=footer&text=building+things%2C+one+commit+at+a+time+✨&fontSize=14&fontColor=A69485&fontAlignY=65)
 
 </div>
