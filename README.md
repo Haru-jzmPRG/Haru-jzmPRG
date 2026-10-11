@@ -35,11 +35,11 @@ Soy **técnica en Sistemas Microinformáticos y Redes** y actualmente estudio **
 
 **LENGUAJES Y DESARROLLO**
 
-<img src="https://img.shields.io/badge/HTML5-22212B?style=flat-square&logo=html5&logoColor=C895A2" alt="HTML5" /> <img src="https://img.shields.io/badge/CSS3-22212B?style=flat-square&logo=css3&logoColor=C895A2" alt="CSS3" /> <img src="https://img.shields.io/badge/JavaScript-22212B?style=flat-square&logo=javascript&logoColor=D5B58B" alt="JavaScript" /> <img src="https://img.shields.io/badge/TypeScript-22212B?style=flat-square&logo=typescript&logoColor=A6B5A4" alt="TypeScript" /> <img src="https://img.shields.io/badge/Java-22212B?style=flat-square&logo=openjdk&logoColor=C895A2" alt="Java" /> <img src="https://img.shields.io/badge/Python-22212B?style=flat-square&logo=python&logoColor=A6B5A4" alt="Python" /> <img src="https://img.shields.io/badge/SQL-22212B?style=flat-square&logo=sqlite&logoColor=D5B58B" alt="SQL" />
+<img src="assets/badges/html5.svg" height="32" alt="HTML5" /> <img src="assets/badges/css3.svg" height="32" alt="CSS3" /> <img src="assets/badges/javascript.svg" height="32" alt="JavaScript" /> <img src="assets/badges/typescript.svg" height="32" alt="TypeScript" /> <img src="assets/badges/java.svg" height="32" alt="Java" /> <img src="assets/badges/python.svg" height="32" alt="Python" /> <img src="assets/badges/sql.svg" height="32" alt="SQL" />
 
 **HERRAMIENTAS**
 
-<img src="https://img.shields.io/badge/Git-22212B?style=flat-square&logo=git&logoColor=C895A2" alt="Git" /> <img src="https://img.shields.io/badge/GitHub-22212B?style=flat-square&logo=github&logoColor=C895A2" alt="GitHub" /> <img src="https://img.shields.io/badge/VS_Code-22212B?style=flat-square&logo=visualstudiocode&logoColor=A6B5A4" alt="VS Code" /> <img src="https://img.shields.io/badge/JUnit-22212B?style=flat-square&logo=junit5&logoColor=D5B58B" alt="JUnit" /> <img src="https://img.shields.io/badge/Figma-22212B?style=flat-square&logo=figma&logoColor=C895A2" alt="Figma" />
+<img src="assets/badges/git.svg" height="32" alt="Git" /> <img src="assets/badges/github.svg" height="32" alt="GitHub" /> <img src="assets/badges/vs-code.svg" height="32" alt="VS Code" /> <img src="assets/badges/junit.svg" height="32" alt="JUnit" /> <img src="assets/badges/figma.svg" height="32" alt="Figma" />
 
 **MIS RAÍCES**
 
@@ -50,30 +50,26 @@ Sistemas · Redes · Hardware · Robótica
 <a id="proyectos"></a>
 <img src="assets/section-projects.svg" width="100%" alt="03 · Proyectos destacados" />
 
-Cuatro proyectos, cuatro maneras de seguir explorando. Cada tarjeta abre su repositorio; la estructura está preparada para incorporar nuevos capítulos.
+Cuatro proyectos, cuatro maneras de seguir explorando. Pulsa sobre cualquier tarjeta para visitar su repositorio. La estructura está preparada para incorporar nuevos capítulos.
 
 <div align="center">
 <a href="https://github.com/Haru-jzmPRG/proyecto-juego-js"><img src="assets/project-1.svg" width="100%" alt="Proyecto 1: Genshin Battle Sim. Simulador inspirado en Genshin Impact con siete regiones temáticas, efectos visuales por facción y diseño adaptable." /></a>
 
-[Explorar repositorio ↗](https://github.com/Haru-jzmPRG/proyecto-juego-js)
 </div>
 
 <div align="center">
 <a href="https://github.com/Haru-jzmPRG/hogwarts_castle"><img src="assets/project-2.svg" width="100%" alt="Proyecto 2: Wizarding World. Una experiencia web inspirada en el universo de Harry Potter, con navegación temática por las casas." /></a>
 
-[Explorar repositorio ↗](https://github.com/Haru-jzmPRG/hogwarts_castle)
 </div>
 
 <div align="center">
 <a href="https://github.com/Haru-jzmPRG/Spock-Game"><img src="assets/project-3.svg" width="100%" alt="Proyecto 3: Spock Game. Una versión del clásico piedra, papel, tijera, lagarto, Spock: un pequeño proyecto para practicar lógica e interacción." /></a>
 
-[Explorar repositorio ↗](https://github.com/Haru-jzmPRG/Spock-Game)
 </div>
 
 <div align="center">
 <a href="https://github.com/Haru-jzmPRG/calculadora"><img src="assets/project-4.svg" width="100%" alt="Proyecto 4: Calculadora TypeScript. Una nueva versión de mi calculadora en JavaScript para explorar clases, POO y observables. Proyecto en desarrollo." /></a>
 
-[Explorar repositorio ↗](https://github.com/Haru-jzmPRG/calculadora) · [Ver versión anterior en JavaScript ↗](https://github.com/Haru-jzmPRG/Calculadora_js)
 </div>
 
 <!-- PROYECTO FUTURO: TeaApp. Añádelo cuando tengas URL real. -->
@@ -106,8 +102,8 @@ Cuando cierro el editor, me encontrarás jugando **voleibol**, leyendo historias
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-22212B?style=for-the-badge&logo=linkedin&logoColor=C895A2)](https://www.linkedin.com/in/jazmin-gutierrez-8445752bb)
-[![Correo](https://img.shields.io/badge/Correo-22212B?style=for-the-badge&logo=gmail&logoColor=D5B58B)](mailto:programajazminc20@gmail.com)
+<a href="https://www.linkedin.com/in/jazmin-gutierrez-8445752bb"><img src="assets/badges/linkedin.svg" height="36" alt="LinkedIn de Jazmín Gutiérrez" /></a>
+<a href="mailto:programajazminc20@gmail.com"><img src="assets/badges/correo.svg" height="36" alt="Enviar correo" /></a>
 
 <!-- PORTFOLIO: añade aquí el badge solo cuando tengas una URL pública real. -->
 
