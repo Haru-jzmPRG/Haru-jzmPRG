@@ -1,250 +1,116 @@
 <!--
-╔══════════════════════════════════════════════════════════════════════╗
-║  README DE PERFIL · Jazmín Gutiérrez (Haru) · github.com/Haru-jzmPRG  ║
-║  Concepto: Rosewood Fantasy · «Libro de aventuras» con estrellas      ║
-╚══════════════════════════════════════════════════════════════════════╝
-
-DÓNDE VA CADA COSA (repositorio Haru-jzmPRG/Haru-jzmPRG)
-  README.md                         ← este archivo (en la raíz)
-  assets/header-dark.svg            ← cabecera para el tema oscuro de GitHub
-  assets/header-light.svg           ← cabecera para el tema claro de GitHub
-  assets/divider.svg                ← separador de estrellas (sirve en ambos temas)
-  assets/certificados/*.pdf         ← tus certificados (nombres exactos más abajo)
-
-GUÍA RÁPIDA DE MANTENIMIENTO
-  · Añadir un proyecto  → copia un bloque «PROYECTO» de la sección III y pega
-                          el nuevo debajo del último. Cambia nombre, texto,
-                          tecnologías y enlace. Nada más.
-  · Cambiar tecnologías → edita las líneas con `código` de la sección II.
-  · Añadir certificado  → añade una línea a la lista de la sección IV y sube el PDF.
-  · Portfolio           → busca «PORTFOLIO» en el Epílogo y quita los comentarios.
-  · Textos de la cabecera (escritura y subtítulo) → están DENTRO de los SVG
-    de assets/. Se editan con cualquier editor de texto (busca el texto y cámbialo).
-    Si cambias el largo de una frase tipeada, hay que ajustar su `textLength`.
-
-REGLA DE ORO: solo enlaces reales. Si todavía no existe, déjalo comentado.
+ROSEWOOD FANTASY · README de perfil
+DISEÑO: assets/rosewood-header.svg, section-*.svg, project-*.svg y rosewood-footer.svg.
+Todos los gráficos son SVG locales y no necesitan servicios externos.
+Para añadir un proyecto: duplica un project-N.svg, edita los textos y añade
+su imagen con enlace en la sección «Proyectos». Usa solo enlaces reales.
+Los SVG contienen colores y tipografías compartidos; consulta la guía en
+assets/README-DISENO.md antes de modificarlos.
+El portfolio y TeaApp se omiten hasta disponer de enlaces confirmados.
 -->
 
 <div align="center">
 
-<!-- CABECERA: cambia sola entre tema claro y oscuro. El texto alternativo describe todo el contenido. -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/header-light.svg">
-  <img src="assets/header-light.svg" width="100%" alt="Jazmín Gutiérrez, Haru. Técnica en Sistemas Microinformáticos y Redes y estudiante de Desarrollo de Aplicaciones Multiplataforma. Del hardware al código. Keep Swimming.">
-</picture>
+<img src="assets/rosewood-header.svg" width="100%" alt="Jazmín Gutiérrez, Haru. Del hardware al código, en constante aprendizaje." />
 
-<!-- ÍNDICE: los enlaces apuntan a los títulos de abajo. Si cambias un título, cambia aquí el enlace
-     (regla: minúsculas, espacios → guiones, sin signos de puntuación salvo guiones). -->
+**Desarrollo multiplataforma** &nbsp; · &nbsp; **Videojuegos** &nbsp; · &nbsp; **Robótica y sistemas**
 
-[I. Sobre mí](#i-sobre-mí) · [II. Caja de herramientas](#ii-caja-de-herramientas) · [III. Proyectos](#iii-proyectos) · [IV. Camino recorrido](#iv-camino-recorrido)<br>
-[V. Próximos capítulos](#v-próximos-capítulos) · [VI. Fuera del código](#vi-fuera-del-código) · [VII. Estadísticas](#vii-estadísticas) · [Epílogo](#epílogo)
-
-<img src="assets/divider.svg" width="100%" alt="">
+[Sobre mí](#sobre-mí) · [Tecnologías](#tecnologías) · [Proyectos](#proyectos) · [Aprendizaje](#aprendizaje) · [Contacto](#contacto)
 
 </div>
 
-<!-- ═══════════════════════════ I. SOBRE MÍ ═══════════════════════════ -->
+<a id="sobre-mí"></a>
+<img src="assets/section-about.svg" width="100%" alt="01 · Entre circuitos e historias — Sobre mí" />
+
+Hola, soy **Jazmín**, aunque en internet también me encontrarás como **Haru**. Mi camino empezó entre hardware, redes y robótica, y ahora continúa en el desarrollo de aplicaciones multiplataforma. Me gusta comprender cómo funcionan las cosas, desde los circuitos hasta el código que les da vida.
+
+Soy **técnica en Sistemas Microinformáticos y Redes** y actualmente estudio **Desarrollo de Aplicaciones Multiplataforma**. Me interesan especialmente los videojuegos, la mecatrónica y los proyectos en los que puedo unir lógica y creatividad.
+
+> Cada proyecto es una página nueva de algo que todavía estoy aprendiendo a construir.
+
+<a id="tecnologías"></a>
+<img src="assets/section-stack.svg" width="100%" alt="02 · Mi caja de herramientas — Tecnologías" />
 
 <div align="center">
 
-## I. Sobre mí
+**LENGUAJES Y DESARROLLO**
+
+<img src="https://img.shields.io/badge/HTML5-22212B?style=flat-square&logo=html5&logoColor=C895A2" alt="HTML5" /> <img src="https://img.shields.io/badge/CSS3-22212B?style=flat-square&logo=css3&logoColor=C895A2" alt="CSS3" /> <img src="https://img.shields.io/badge/JavaScript-22212B?style=flat-square&logo=javascript&logoColor=D5B58B" alt="JavaScript" /> <img src="https://img.shields.io/badge/TypeScript-22212B?style=flat-square&logo=typescript&logoColor=A6B5A4" alt="TypeScript" /> <img src="https://img.shields.io/badge/Java-22212B?style=flat-square&logo=openjdk&logoColor=C895A2" alt="Java" /> <img src="https://img.shields.io/badge/Python-22212B?style=flat-square&logo=python&logoColor=A6B5A4" alt="Python" /> <img src="https://img.shields.io/badge/SQL-22212B?style=flat-square&logo=sqlite&logoColor=D5B58B" alt="SQL" />
+
+**HERRAMIENTAS**
+
+<img src="https://img.shields.io/badge/Git-22212B?style=flat-square&logo=git&logoColor=C895A2" alt="Git" /> <img src="https://img.shields.io/badge/GitHub-22212B?style=flat-square&logo=github&logoColor=C895A2" alt="GitHub" /> <img src="https://img.shields.io/badge/VS_Code-22212B?style=flat-square&logo=visualstudiocode&logoColor=A6B5A4" alt="VS Code" /> <img src="https://img.shields.io/badge/JUnit-22212B?style=flat-square&logo=junit5&logoColor=D5B58B" alt="JUnit" /> <img src="https://img.shields.io/badge/Figma-22212B?style=flat-square&logo=figma&logoColor=C895A2" alt="Figma" />
+
+**MIS RAÍCES**
+
+Sistemas · Redes · Hardware · Robótica
 
 </div>
 
-Hola, soy Jazmín, aunque por aquí me conocen como **Haru**. Empecé entre redes, hardware y robótica, y de ahí di el salto al código. Soy técnica en Sistemas Microinformáticos y Redes y ahora estudio Desarrollo de Aplicaciones Multiplataforma. Me interesan las aplicaciones, los videojuegos y la mecatrónica, y me gusta entender cómo encaja todo, desde el circuito hasta la pantalla.
+<a id="proyectos"></a>
+<img src="assets/section-projects.svg" width="100%" alt="03 · Proyectos destacados" />
 
-Este perfil es un libro a medio escribir: cada proyecto es un capítulo.
-
-<div align="center"><img src="assets/divider.svg" width="100%" alt=""></div>
-
-<!-- ═════════════════════ II. CAJA DE HERRAMIENTAS ═════════════════════ -->
-<!-- Las «etiquetas» son código en línea (`así`): no dependen de ningún servicio externo.
-     Para añadir una tecnología, escribe `Nombre` junto a las demás. -->
+Cuatro proyectos, cuatro maneras de seguir explorando. Cada tarjeta abre su repositorio; la estructura está preparada para incorporar nuevos capítulos.
 
 <div align="center">
+<a href="https://github.com/Haru-jzmPRG/proyecto-juego-js"><img src="assets/project-1.svg" width="100%" alt="Proyecto 1: Genshin Battle Sim. Simulador inspirado en Genshin Impact con siete regiones temáticas, efectos visuales por facción y diseño adaptable." /></a>
 
-## II. Caja de herramientas
-
+[Explorar repositorio ↗](https://github.com/Haru-jzmPRG/proyecto-juego-js)
 </div>
 
-**Lo que uso**<br>
-`HTML` `CSS` `JavaScript` `TypeScript` `Java` `Git` `GitHub` `VS Code` `JUnit`
-
-**Mis raíces**<br>
-Sistemas, redes y hardware
-
-**Diseño**<br>
-`Figma` (certificada)
-
-**Próximamente**<br>
-`Android` `C#` `JavaScript avanzado`
-
-<div align="center"><img src="assets/divider.svg" width="100%" alt=""></div>
-
-<!-- ═══════════════════════════ III. PROYECTOS ═══════════════════════════ -->
-<!-- Tarjetas verticales (sin tablas) para que se lean bien en móvil.
-     Cada proyecto es un bloque que empieza por «> ### Nombre».
-     PARA AÑADIR UNO: copia un bloque completo (desde «> ### » hasta la línea del enlace),
-     pégalo debajo del último y cambia los datos.
-
-     Plantilla:
-     > ### Nombre del proyecto
-     > Descripción breve de dos o tres líneas.
-     >
-     > `Tecnología 1` `Tecnología 2`
-     >
-     > [Ver repositorio →](https://github.com/Haru-jzmPRG/nombre-del-repo)
-
-     Pendiente (comentado hasta que se pueda mostrar): TeaApp. -->
-
 <div align="center">
+<a href="https://github.com/Haru-jzmPRG/hogwarts_castle"><img src="assets/project-2.svg" width="100%" alt="Proyecto 2: Wizarding World. Una experiencia web inspirada en el universo de Harry Potter, con navegación temática por las casas." /></a>
 
-## III. Proyectos
-
+[Explorar repositorio ↗](https://github.com/Haru-jzmPRG/hogwarts_castle)
 </div>
 
-<!-- PROYECTO 1 -->
-
-> ### Genshin Battle Sim
->
-> Simulador de batallas inspirado en Genshin Impact, con 7 regiones temáticas, efectos visuales por facción y diseño responsive.
->
-> `JavaScript` `Canvas API`
->
-> [Ver repositorio →](https://github.com/Haru-jzmPRG/proyecto-juego-js)
-
-<!-- PROYECTO 2 -->
-
-> ### Wizarding World
->
-> Página temática del universo de Harry Potter, con diseño inmersivo y navegación por casas.
->
-> `HTML` `CSS` `JavaScript`
->
-> [Ver repositorio →](https://github.com/Haru-jzmPRG/hogwarts_castle)
-
-<!-- PROYECTO 3 -->
-
-> ### Spock-Game
->
-> Juego basado en la variante Piedra, Papel, Tijera, Lagarto, Spock.
->
-> `HTML` `CSS` `JavaScript`
->
-> [Ver repositorio →](https://github.com/Haru-jzmPRG/Spock-Game)
-
-<!-- PROYECTO 4 · EN DESARROLLO
-     Cuando esté terminada, quita «· en desarrollo» del título y ajusta la descripción. -->
-
-> ### Calculadora en TypeScript · _en desarrollo_
->
-> Mi calculadora en JavaScript, reescrita en TypeScript para practicar programación orientada a objetos: clases, observables y una lógica mejor organizada.
->
-> `TypeScript`
->
-> [Ver repositorio →](https://github.com/Haru-jzmPRG/calculadora) · [Versión anterior en JavaScript →](https://github.com/Haru-jzmPRG/Calculadora_js)
-
-<!-- TEAAPP (pendiente: no se puede mostrar todavía en GitHub)
-     Cuando esté disponible, descomenta y añade el enlace real del repositorio:
-> ### TeaApp
-> Descripción real de la app.
->
-> `Tecnologías verificadas`
->
-> [Ver repositorio →](URL-REAL-AQUÍ)
--->
-
-<div align="center"><img src="assets/divider.svg" width="100%" alt=""></div>
-
-<!-- ═════════════════════════ IV. CAMINO RECORRIDO ═════════════════════════ -->
-<!-- CERTIFICADOS: sube los PDF a assets/certificados/ con estos nombres exactos.
-     Hasta que los subas, los enlaces darán error 404.
-       assets/certificados/javascript-intermedio.pdf
-       assets/certificados/typescript.pdf
-       assets/certificados/figma.pdf
-     Para añadir uno nuevo: sube su PDF y añade una línea a la lista. -->
-
 <div align="center">
+<a href="https://github.com/Haru-jzmPRG/Spock-Game"><img src="assets/project-3.svg" width="100%" alt="Proyecto 3: Spock Game. Una versión del clásico piedra, papel, tijera, lagarto, Spock: un pequeño proyecto para practicar lógica e interacción." /></a>
 
-## IV. Camino recorrido
-
+[Explorar repositorio ↗](https://github.com/Haru-jzmPRG/Spock-Game)
 </div>
 
-**Formación**
-
-- Técnica en Sistemas Microinformáticos y Redes (completada)
-- Desarrollo de Aplicaciones Multiplataforma (en curso)
-
-**Certificaciones · OpenWebinars**
-
-- [JavaScript Fundamentos](assets/certificados/certificado_fundamentos_de_javascript.pdf)
-- [TypeScript](assets/certificados/certificado_typescript.pdf)
-- [Figma](assets/certificados/certificado_curso_de_figma.pdf)
-
-<div align="center"><img src="assets/divider.svg" width="100%" alt=""></div>
-
-<!-- ═══════════════════════ V. PRÓXIMOS CAPÍTULOS ═══════════════════════ -->
-<!-- Son objetivos, no logros: no se presentan como certificaciones. -->
-
 <div align="center">
+<a href="https://github.com/Haru-jzmPRG/calculadora"><img src="assets/project-4.svg" width="100%" alt="Proyecto 4: Calculadora TypeScript. Una nueva versión de mi calculadora en JavaScript para explorar clases, POO y observables. Proyecto en desarrollo." /></a>
 
-## V. Próximos capítulos
-
+[Explorar repositorio ↗](https://github.com/Haru-jzmPRG/calculadora) · [Ver versión anterior en JavaScript ↗](https://github.com/Haru-jzmPRG/Calculadora_js)
 </div>
 
-- Android
-- C#
-- JavaScript avanzado
-- Terminar la calculadora en TypeScript
+<!-- PROYECTO FUTURO: TeaApp. Añádelo cuando tengas URL real. -->
 
-<div align="center"><img src="assets/divider.svg" width="100%" alt=""></div>
+<a id="aprendizaje"></a>
+<img src="assets/section-journey.svg" width="100%" alt="04 · El camino continúa — Formación y aprendizaje" />
 
-<!-- ════════════════════════ VI. FUERA DEL CÓDIGO ════════════════════════ -->
+**Formación** · Técnica en Sistemas Microinformáticos y Redes (finalizada) · Desarrollo de Aplicaciones Multiplataforma (en curso).
+
+**Certificaciones de OpenWebinars**
+
+- [Fundamentos de JavaScript ↗](assets/certificados/certificado_fundamentos_de_javascript.pdf)
+- [TypeScript ↗](assets/certificados/certificado_typescript.pdf)
+- [Figma ↗](assets/certificados/certificado_curso_de_figma.pdf)
+
+**Próximos capítulos** · Android · C# · JavaScript avanzado · Continuar desarrollando la calculadora TypeScript.
+
+<img src="assets/section-personal.svg" width="100%" alt="05 · Más allá de la pantalla — Aficiones" />
+
+Cuando cierro el editor, me encontrarás jugando **voleibol**, leyendo historias de **fantasía**, escuchando música o descubriendo mundos en algún **videojuego**. Me gusta pensar que esa curiosidad también acompaña a los proyectos que creo.
+
+<img src="assets/section-stats.svg" width="100%" alt="06 · Un vistazo a GitHub — Estadísticas" />
 
 <div align="center">
-
-## VI. Fuera del código
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haru-jzmPRG&layout=compact&langs_count=5&custom_title=Lenguajes%20en%20mis%20repositorios&bg_color=22212B&title_color=C895A2&text_color=F1E7E2&border_color=775460" width="340" alt="Distribución de lenguajes en repositorios públicos de GitHub" />
 </div>
 
-Cuando no estoy delante del editor, probablemente esté jugando voleibol, leyendo historias de fantasía, escuchando música de cualquier estilo o metida en algún videojuego. Me gustan los mundos imaginarios, y creo que eso se nota en lo que construyo.
-
-<div align="center"><img src="assets/divider.svg" width="100%" alt=""></div>
-
-<!-- ═════════════════════════ VII. ESTADÍSTICAS ═════════════════════════ -->
-<!-- Tarjeta pequeña y deliberadamente discreta.
-     OJO: viene de un servicio externo (github-readme-stats en Vercel). Si algún día
-     deja de cargar, GitHub mostrará el texto alternativo; entonces puedes borrar
-     este bloque sin que se rompa nada más.
-     Parámetros útiles: langs_count (cuántos lenguajes), hide=batchfile (oculta uno). -->
+<a id="contacto"></a>
+<img src="assets/section-contact.svg" width="100%" alt="07 · Sigamos en contacto" />
 
 <div align="center">
 
-## VII. Estadísticas
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-22212B?style=for-the-badge&logo=linkedin&logoColor=C895A2)](https://www.linkedin.com/in/jazmin-gutierrez-8445752bb)
+[![Correo](https://img.shields.io/badge/Correo-22212B?style=for-the-badge&logo=gmail&logoColor=D5B58B)](mailto:programajazminc20@gmail.com)
 
-<img width="320" alt="Lenguajes más usados en mis repositorios públicos de GitHub" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haru-jzmPRG&layout=compact&langs_count=5&hide=batchfile&custom_title=Lenguajes%20m%C3%A1s%20usados&bg_color=14151B&title_color=B78491&text_color=EDE4DF&border_color=704653&card_width=320">
+<!-- PORTFOLIO: añade aquí el badge solo cuando tengas una URL pública real. -->
 
-</div>
-
-<div align="center"><img src="assets/divider.svg" width="100%" alt=""></div>
-
-<!-- ═══════════════════════════════ EPÍLOGO ═══════════════════════════════ -->
-<!-- CONTACTO: el correo no se repite aquí porque ya aparece en el menú lateral del perfil.
-     PORTFOLIO: cuando esté listo, quita los signos de comentario de la línea de abajo
-     y pon la URL real (nunca «#»):
-     · [Portfolio](URL-REAL-AQUÍ) -->
-
-<div align="center">
-
-## Epílogo
-
-[LinkedIn](https://www.linkedin.com/in/jazmin-gutierrez-8445752bb)
-
-<!-- · [Portfolio](URL-REAL-AQUÍ) -->
-
-<br>
-
-_Keep Swimming._
+<img src="assets/rosewood-footer.svg" width="100%" alt="Keep Swimming. Haru, always learning." />
 
 </div>
