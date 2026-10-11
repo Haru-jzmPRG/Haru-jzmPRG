@@ -13,9 +13,7 @@ El portfolio y TeaApp se omiten hasta disponer de enlaces confirmados.
 
 <img src="assets/rosewood-header.svg" width="100%" alt="Jazmín Gutiérrez, Haru. Del hardware al código, en constante aprendizaje." />
 
-**Desarrollo multiplataforma** &nbsp; · &nbsp; **Videojuegos** &nbsp; · &nbsp; **Robótica y sistemas**
-
-[Sobre mí](#sobre-mí) · [Tecnologías](#tecnologías) · [Proyectos](#proyectos) · [Aprendizaje](#aprendizaje) · [Contacto](#contacto)
+<img src="assets/rosewood-subtitle.svg" width="100%" alt="Desarrollo multiplataforma · Videojuegos · Robótica y sistemas" />
 
 </div>
 
@@ -33,15 +31,15 @@ Soy **técnica en Sistemas Microinformáticos y Redes** y actualmente estudio **
 
 <div align="center">
 
-**LENGUAJES Y DESARROLLO**
+<img src="assets/label-languages.svg" width="78%" alt="Lenguajes y desarrollo" />
 
 <img src="assets/badges/html5.svg" height="32" alt="HTML5" /> <img src="assets/badges/css3.svg" height="32" alt="CSS3" /> <img src="assets/badges/javascript.svg" height="32" alt="JavaScript" /> <img src="assets/badges/typescript.svg" height="32" alt="TypeScript" /> <img src="assets/badges/java.svg" height="32" alt="Java" /> <img src="assets/badges/python.svg" height="32" alt="Python" /> <img src="assets/badges/sql.svg" height="32" alt="SQL" />
 
-**HERRAMIENTAS**
+<img src="assets/label-tools.svg" width="78%" alt="Herramientas" />
 
 <img src="assets/badges/git.svg" height="32" alt="Git" /> <img src="assets/badges/github.svg" height="32" alt="GitHub" /> <img src="assets/badges/vs-code.svg" height="32" alt="VS Code" /> <img src="assets/badges/junit.svg" height="32" alt="JUnit" /> <img src="assets/badges/figma.svg" height="32" alt="Figma" />
 
-**MIS RAÍCES**
+<img src="assets/label-roots.svg" width="78%" alt="Mis raíces" />
 
 Sistemas · Redes · Hardware · Robótica
 
@@ -81,9 +79,11 @@ Cuatro proyectos, cuatro maneras de seguir explorando. Pulsa sobre cualquier tar
 
 **Certificaciones de OpenWebinars**
 
-- [Fundamentos de JavaScript ↗](assets/certificados/certificado_fundamentos_de_javascript.pdf)
-- [TypeScript ↗](assets/certificados/certificado_typescript.pdf)
-- [Figma ↗](assets/certificados/certificado_curso_de_figma.pdf)
+<div align="center">
+<a href="assets/certificados/certificado_fundamentos_de_javascript.pdf"><img src="assets/certificados/tarjeta-javascript.svg" width="100%" alt="Ver certificado de Fundamentos de JavaScript de OpenWebinars (PDF)" /></a>
+<a href="assets/certificados/certificado_typescript.pdf"><img src="assets/certificados/tarjeta-typescript.svg" width="100%" alt="Ver certificado de TypeScript de OpenWebinars (PDF)" /></a>
+<a href="assets/certificados/certificado_curso_de_figma.pdf"><img src="assets/certificados/tarjeta-figma.svg" width="100%" alt="Ver certificado de Figma de OpenWebinars (PDF)" /></a>
+</div>
 
 **Próximos capítulos** · Android · C# · JavaScript avanzado · Continuar desarrollando la calculadora TypeScript.
 

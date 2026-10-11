@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="110" viewBox="0 0 900 110" role="img" aria-label="Certificación OpenWebinars: Figma">
+  <rect x="1" y="1" width="898" height="108" rx="12" fill="#22212B" stroke="#775460" stroke-width="1.5"/>
+  <rect x="1" y="1" width="6" height="108" rx="3" fill="#B78491"/>
+  <path d="M26 19 H874" stroke="#704653" stroke-width="1" opacity=".65"/>
+  <path d="M26 92 H874" stroke="#704653" stroke-width="1" opacity=".65"/>
+  <g transform="translate(39 38)" stroke="#D4B58A" stroke-width="1.7" fill="none">
+    <circle cx="17" cy="17" r="15"/><path d="M17 6l3.2 7.6 8.3.7-6.3 5.5 2 8-7.2-4.3-7.2 4.3 2-8-6.3-5.5 8.3-.7z"/>
+  </g>
+  <text x="93" y="40" font-family="Georgia, Times New Roman, serif" font-size="12" letter-spacing="2" fill="#D4B58A">OPENWEBINARS · CERTIFICACIÓN 03</text>
+  <text x="93" y="73" font-family="Georgia, Times New Roman, serif" font-size="26" fill="#F1E7E2">Figma</text>
+  <text x="844" y="61" text-anchor="end" font-family="Georgia, Times New Roman, serif" font-size="13" fill="#A1AD9C">VER PDF  ↗</text>
+</svg>
