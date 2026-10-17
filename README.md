@@ -68,9 +68,8 @@ Cuatro proyectos, cuatro maneras de seguir explorando. Pulsa sobre cualquier tar
 <div align="center">
 <a href="https://github.com/Haru-jzmPRG/calculadora"><img src="assets/project-4.svg" width="100%" alt="Proyecto 4: Calculadora TypeScript. Una nueva versión de mi calculadora en JavaScript para explorar clases, POO y observables. Proyecto en desarrollo." /></a>
 
-</div>
-
 <img src="assets/label.svg" width="78%" alt="Separador" />
+</div>
 
 <!-- PROYECTO FUTURO: TeaApp. Añádelo cuando tengas URL real. -->
 
@@ -79,7 +78,9 @@ Cuatro proyectos, cuatro maneras de seguir explorando. Pulsa sobre cualquier tar
 
 **Formación** · Técnica en Sistemas Microinformáticos y Redes (finalizada) · Desarrollo de Aplicaciones Multiplataforma (en curso).
 
+<div aling="center">
 <img src="assets/label.svg" width="78%" alt="Separador" />
+</div>
 
 <img src="assets/section-personal.svg" width="100%" alt="05 · Más allá de la pantalla — Aficiones" />
 
