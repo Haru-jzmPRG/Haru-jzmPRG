@@ -78,7 +78,7 @@ Cuatro proyectos, cuatro maneras de seguir explorando. Pulsa sobre cualquier tar
 
 **Formación** · Técnica en Sistemas Microinformáticos y Redes (finalizada) · Desarrollo de Aplicaciones Multiplataforma (en curso).
 
-<div aling="center">
+<div align="center">
 <img src="assets/label.svg" width="78%" alt="Separador" />
 </div>
 
