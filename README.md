@@ -33,11 +33,11 @@ Soy **técnica en Sistemas Microinformáticos y Redes** y actualmente estudio **
 
 <img src="assets/label-languages.svg" width="78%" alt="Lenguajes y desarrollo" />
 
-<img src="assets/badges/html5.svg" height="32" alt="HTML5" /> <img src="assets/badges/css3.svg" height="32" alt="CSS3" /> <img src="assets/badges/javascript.svg" height="32" alt="JavaScript" /> <img src="assets/badges/typescript.svg" height="32" alt="TypeScript" /> <img src="assets/badges/java.svg" height="32" alt="Java" /> <img src="assets/badges/python.svg" height="32" alt="Python" /> <img src="assets/badges/sql.svg" height="32" alt="SQL" />
+<img src="assets/badges/html5.svg" height="32" alt="HTML5" /> <img src="assets/badges/css3.svg" height="32" alt="CSS3" /> <img src="assets/badges/javascript.svg" height="32" alt="JavaScript" /> <img src="assets/badges/typescript.svg" height="32" alt="TypeScript" /> <img src="assets/badges/java.svg" height="32" alt="Java" /> <img src="assets/badges/python.svg" height="32" alt="Python" /> <img src="assets/badges/sql.svg" height="32" alt="SQL" /> <img src="assets/badges/angular.svg" height="32" alt="Angular"/> <img src="assets/badges/kotlin.svg" height="32" alt="Kotlin"/> <img src="assets/badges/csharp.svg" height="32" alt="C#"/>
 
 <img src="assets/label-tools.svg" width="78%" alt="Herramientas" />
 
-<img src="assets/badges/git.svg" height="32" alt="Git" /> <img src="assets/badges/github.svg" height="32" alt="GitHub" /> <img src="assets/badges/vs-code.svg" height="32" alt="VS Code" /> <img src="assets/badges/junit.svg" height="32" alt="JUnit" /> <img src="assets/badges/figma.svg" height="32" alt="Figma" />
+<img src="assets/badges/git.svg" height="32" alt="Git" /> <img src="assets/badges/github.svg" height="32" alt="GitHub" /> <img src="assets/badges/vs-code.svg" height="32" alt="VS Code" /> <img src="assets/badges/junit.svg" height="32" alt="JUnit" /> <img src="assets/badges/figma.svg" height="32" alt="Figma" /> <img src="assets/badges/android-studio.svg" height="32" alt="Android Studio"/> <img src="assets/badges/aws.svg" height="32" alt="AWS"/> <img src="assets/badges/intellij-idea.svg" height="32" alt="IntelliJ"/> <img src="assets/badges/nodejs.svg" height="32" alt="NodeJs"/>
 
 <img src="assets/label-roots.svg" width="78%" alt="Mis raíces" />
 
@@ -76,16 +76,6 @@ Cuatro proyectos, cuatro maneras de seguir explorando. Pulsa sobre cualquier tar
 <img src="assets/section-journey.svg" width="100%" alt="04 · El camino continúa — Formación y aprendizaje" />
 
 **Formación** · Técnica en Sistemas Microinformáticos y Redes (finalizada) · Desarrollo de Aplicaciones Multiplataforma (en curso).
-
-**Certificaciones de OpenWebinars**
-
-<div align="center">
-<a href="assets/certificados/certificado_fundamentos_de_javascript.pdf"><img src="assets/certificados/tarjeta-javascript.svg" width="100%" alt="Ver certificado de Fundamentos de JavaScript de OpenWebinars (PDF)" /></a>
-<a href="assets/certificados/certificado_typescript.pdf"><img src="assets/certificados/tarjeta-typescript.svg" width="100%" alt="Ver certificado de TypeScript de OpenWebinars (PDF)" /></a>
-<a href="assets/certificados/certificado_curso_de_figma.pdf"><img src="assets/certificados/tarjeta-figma.svg" width="100%" alt="Ver certificado de Figma de OpenWebinars (PDF)" /></a>
-</div>
-
-**Próximos capítulos** · Android · C# · JavaScript avanzado · Continuar desarrollando la calculadora TypeScript.
 
 <img src="assets/section-personal.svg" width="100%" alt="05 · Más allá de la pantalla — Aficiones" />
 
