@@ -70,6 +70,8 @@ Cuatro proyectos, cuatro maneras de seguir explorando. Pulsa sobre cualquier tar
 
 </div>
 
+<img src="assets/label.svg" width="78%" alt="Separador" />
+
 <!-- PROYECTO FUTURO: TeaApp. Añádelo cuando tengas URL real. -->
 
 <a id="aprendizaje"></a>
@@ -77,9 +79,11 @@ Cuatro proyectos, cuatro maneras de seguir explorando. Pulsa sobre cualquier tar
 
 **Formación** · Técnica en Sistemas Microinformáticos y Redes (finalizada) · Desarrollo de Aplicaciones Multiplataforma (en curso).
 
+<img src="assets/label.svg" width="78%" alt="Separador" />
+
 <img src="assets/section-personal.svg" width="100%" alt="05 · Más allá de la pantalla — Aficiones" />
 
-Cuando cierro el editor, me encontrarás jugando **voleibol**, leyendo historias de **fantasía**, escuchando música o descubriendo mundos en algún **videojuego**. Me gusta pensar que esa curiosidad también acompaña a los proyectos que creo.
+Cuando cierro el editor, me encontrarás jugando **voleibol**, leyendo, escuchando música o descubriendo mundos en algún **videojuego**. Me gusta pensar que esa curiosidad también acompaña a los proyectos que creo.
 
 <img src="assets/section-stats.svg" width="100%" alt="06 · Un vistazo a GitHub — Estadísticas" />
 
