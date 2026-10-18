@@ -97,6 +97,7 @@ Cuando cierro el editor, me encontrarás jugando **voleibol**, leyendo, escuchan
 
 <div align="center">
 
+<a href="https://the-haru-archives.vercel.app/"><img src="assets/badges/portfolio.svg" height="36" alt="Portafolio"/></a>
 <a href="https://www.linkedin.com/in/jazmin-gutierrez-8445752bb"><img src="assets/badges/linkedin.svg" height="36" alt="LinkedIn de Jazmín Gutiérrez" /></a>
 <a href="mailto:programajazminc20@gmail.com"><img src="assets/badges/correo.svg" height="36" alt="Enviar correo" /></a>
 
